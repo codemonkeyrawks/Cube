@@ -1,4 +1,8 @@
-// MIT Licence - Limor Fried/Ladyada
+// Date: 12/13/2018
+// Author: Adafruit (Limor Fried/Ladyada) & (codemonkeyrawks)
+// Licence: Creative Commons-Share-Alike-Attribution and MIT Licence
+// Version: 1.02b-alpha-1
+
 
 // SPI, I2C, HX8357 TFT, GFX TFT, STMPE610 Touch
 #include <SPI.h>

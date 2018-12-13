@@ -1,3 +1,7 @@
+// Date: 12/13/2018
+// Author: Adafruit & (codemonkeyrawks)
+// Licence: Creative Commons-Share-Alike-Attribution
+// Version: 1.02b-alpha-1
 
 // SPI, MP3, SD Card: VS1053
 // Serial: MIDI VS1053
